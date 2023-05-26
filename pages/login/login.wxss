@@ -1,0 +1,46 @@
+/* pages/login/login.wxss */
+.hello{
+    font-size: 40rpx;
+    font-family: serif;
+    font-weight: 600;
+    background-color: #fcc200;
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+    line-height: 50px;
+    color: white;
+}
+.other_login{
+    color: #fcc200;
+    width: 80vw;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    margin-left: 50rpx;
+}
+.second_container{
+    width: 100vw;
+    text-align: center;
+    height: 75vh;
+    background: white;
+    border-radius: 80rpx 80rpx 0 0 ;
+    bottom: 0;
+    position: absolute;
+}
+.line{
+    width: 100rpx;
+    background-color: #fcc200;
+    height: 2rpx;
+}
+.button_style{
+    width: 80vw;
+    display: flex;
+    justify-content: center;
+    height: 100rpx;
+    background: #fcc200;
+    margin: 30px auto;
+    border-radius: 50rpx;
+}

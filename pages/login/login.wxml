@@ -1,0 +1,11 @@
+<!--pages/login/login.wxml-->
+<view class="hello">
+    <view class="text">Hello!</view>
+    <view class="text">欢迎来到天蚕记账</view>
+    <view class="second_container">
+        <view class="button_style">微信一键登录</view>
+        <view class="other_login">
+            <hr class="line"/> <text>其他登录方式</text>  <hr class="line"/>
+        </view>
+    </view>
+</view>
